@@ -17,5 +17,5 @@ module.exports = {
       short_name: 'Music',
     },
   },
-
+  publicPath: '/vue-music-app/',
 };
